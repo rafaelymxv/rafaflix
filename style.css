@@ -9,6 +9,28 @@ body{
     margin-bottom: 100px;
     font-family: "roboto mono" , monospace;
     } 
+
+header{
+border-bottom: solid 2px #000080; 
+margin: 20px;
+font-size: 32px;
+color: black;
+}
+
+section{
+padding-bottom: 80px;
+padding-top:80px;
+background:#6A5ACD;
+display: flex;
+justify-content: center;
+}
+
+
+
+
+
+
+
     
     h1{
     color:#000080;
